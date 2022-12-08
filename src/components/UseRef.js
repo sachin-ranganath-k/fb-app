@@ -1,8 +1,8 @@
 import React, { createRef, useRef } from "react";
 function UseRef() {
   let inputRef = useRef("1234567324");
-  let a= createRef()
-  console.log(inputRef);
+  // let a = createRef();
+  // console.log(inputRef);
   function controlInput() {
     inputRef.current.value = "abc";
     console.log(inputRef.current.value);
