@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fb-app/static/css/main.671a596d.css",
+    "main.js": "/fb-app/static/js/main.d68b9e6d.js",
+    "static/js/880.fcd954ea.chunk.js": "/fb-app/static/js/880.fcd954ea.chunk.js",
+    "static/js/787.6cb7019e.chunk.js": "/fb-app/static/js/787.6cb7019e.chunk.js",
+    "static/css/264.3d6052dc.chunk.css": "/fb-app/static/css/264.3d6052dc.chunk.css",
+    "static/js/264.f67a1bc4.chunk.js": "/fb-app/static/js/264.f67a1bc4.chunk.js",
+    "static/js/220.1b610c1e.chunk.js": "/fb-app/static/js/220.1b610c1e.chunk.js",
+    "static/media/nature1.jpg": "/fb-app/static/media/nature1.207a6afa5de75fe170cc.jpg",
+    "index.html": "/fb-app/index.html",
+    "main.671a596d.css.map": "/fb-app/static/css/main.671a596d.css.map",
+    "main.d68b9e6d.js.map": "/fb-app/static/js/main.d68b9e6d.js.map",
+    "880.fcd954ea.chunk.js.map": "/fb-app/static/js/880.fcd954ea.chunk.js.map",
+    "787.6cb7019e.chunk.js.map": "/fb-app/static/js/787.6cb7019e.chunk.js.map",
+    "264.3d6052dc.chunk.css.map": "/fb-app/static/css/264.3d6052dc.chunk.css.map",
+    "264.f67a1bc4.chunk.js.map": "/fb-app/static/js/264.f67a1bc4.chunk.js.map",
+    "220.1b610c1e.chunk.js.map": "/fb-app/static/js/220.1b610c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671a596d.css",
+    "static/js/main.d68b9e6d.js"
+  ]
+}
