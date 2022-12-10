@@ -1,11 +1,14 @@
 import React, { PureComponent } from "react";
 
-class PureComp extends PureComponent {
+class PureCompClass extends PureComponent {
   constructor(props) {
     super(props);
     this.state = {
       name: "Ranganath",
     };
+    this.state={
+      ee:"rr"
+    }
   }
   componentDidMount() {
     setInterval(() => {
@@ -16,8 +19,8 @@ class PureComp extends PureComponent {
   }
   render() {
     console.log("--------Pure Component------");
-    return <div>Pure Component</div>;
+    return <div>{this.state.ee}</div>;
   }
 }
 
-export default PureComp;
+export default PureCompClass;
