@@ -11,10 +11,10 @@ import RouteLinks from "./router/RouteLinks";
 function App() {
   return (
     <div className="App">
-      <RouteLinks />
+      {/* <RouteLinks /> */}
       {/* <ClickCounter />
       <NewCounter /> */}
-      {/* <UseRef /> */}
+      <UseRef />
       {/* <Parent /> */}
       {/* <PureCompFunctional /> */}
       {/* <PureCompClass /> */}
