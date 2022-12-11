@@ -1,6 +1,5 @@
 {
   "name": "fb-app",
-  "homepage": "https://sachin-ranganath-k.github.io/fb-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

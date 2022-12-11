@@ -14,7 +14,7 @@ const RouteLinks = () => {
     <Router>
       <NavBar />
       <Routes>
-        <Route path="/" element={<UseRef />} />
+        {/* <Route path="/" element={<Home />} /> */}
         <Route
           exact
           path="/"
